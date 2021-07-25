@@ -18,5 +18,8 @@
     <ClCompile Include="HelloWindowsDesktop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FirstWindowsProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
